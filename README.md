@@ -14,3 +14,4 @@ The dashboard uses sample call center data provided as part of the Forage PWC Sw
 
 ## Screenshots 
 ![](/images/page1.png)
+![](/images/page2.png)
